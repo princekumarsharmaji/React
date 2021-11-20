@@ -1,0 +1,12 @@
+.info{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.price{
+    margin-top: -60px;
+    font-style: italic;
+    padding: 5px;
+}

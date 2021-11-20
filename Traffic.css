@@ -1,0 +1,12 @@
+.traffic{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+.first{
+    background-color: red;
+}
+.second{
+    background-color: yellow;
+}

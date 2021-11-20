@@ -1,0 +1,12 @@
+.rating{
+    display: flex;
+    flex-direction: column;
+}
+
+.h-5{
+    height: 1.5em;
+}
+
+.w-5{
+    width: 1.5em;
+}
